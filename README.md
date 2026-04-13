@@ -14,6 +14,7 @@ Thank you for taking the time to review the current AVG rules. Any changes will 
 - Keep chat respectful and drama-free. We understand that disagreements will happen however we are all friends and allies here.
 - Avoid in religion, politics and sex in chat - We have a mix of people with all backgrounds and all religions 
 - Repeated inactivity or refusal to cooperate may lead to demotion or removal.
+- If possible try to complete all your intel and 5 Terror hunts daily (try the strongest level you can with minimal troop losses)
 - If you feel like there is any issues or conflicts make sure to flag it to an R4 or AChubbyWiggle. If we are aware of the issue we can do something about it
 
 # Events Rules and information
