@@ -16,6 +16,17 @@ Thank you for taking the time to review the current AVG rules. Any changes will 
 - Repeated inactivity or refusal to cooperate may lead to demotion or removal.
 - If you feel like there is any issues or conflicts make sure to flag it to an R4 or AChubbyWiggle. If we are aware of the issue we can do something about it
 
-# Events and information
+# Events Rules and information
+- [Alliance Championship](docs/Alliance-Championship-Rules.md)
 - [NAP](https://github.com/AChubbyWiggle/Kingshot-1338-NAP-4/tree/67506e144f96ea9d4a128e5234ef0f924e019344)
-- [Bear trap rules](docs/Bear Trap Rules.md)
+- [Bear trap](docs/Bear-Trap-Rules.md)
+- [Castle Battle](docs/Castle-Battle-Rules.md)
+- [Ceasers Boss](docs/Ceasers-Boss-Rules.md)
+- [KVK preperation (seperate from Castle battle)](docs/KVK-Preparation.md)
+- [Misc Rules such as Hall of governers, alliance clash etc](docs/Misc-Event-Rules.md)
+- [Sanctuary and Fort](docs/Sanctuary-and-Fort-Rules.md)
+- [Swordland](docs/Swordland-Rules.md)
+- [Tri Alliance clash](docs/Tri-Alliance-Clash-Rules.md)
+- [Vikings](docs/Vikings-Rules.md)
+
+# [If there is ever an issue please make sure to flag with myself or one of the R4 team. We are happy to be the impartial party that can help find resolutions to any issues but we only know what we know](docs/Complaint-and-Issues.md)
