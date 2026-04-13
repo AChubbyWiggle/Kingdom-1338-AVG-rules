@@ -31,3 +31,6 @@ Thank you for taking the time to review the current AVG rules. Any changes will 
 - [Vikings](docs/Vikings-Rules.md)
 
 # [If there is ever an issue please make sure to flag with myself or one of the R4 team. We are happy to be the impartial party that can help find resolutions to any issues but we only know what we know](docs/Complaint-and-Issues.md)
+
+# Languages
+- [Engish](README.md)
