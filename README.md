@@ -9,7 +9,7 @@ Thank you for taking the time to review the current AVG rules. Any changes will 
 - Read alliance messages and follow R4/R5 instructions.
 - No attacks on alliance members, academies, or allies/NAP without approval.
 - Join rallies and reinforce/garrison when requested.
-- Do not place banners, change territory plans, or start political issues without leadership approval.
+- Do start political issues without leadership approval.
 - Notify leadership before extended inactivity or if you can't make it to an event you previously said you could attend.
 - Keep chat respectful and drama-free. We understand that disagreements will happen however we are all friends and allies here.
 - Avoid in religion, politics and sex in chat - We have a mix of people with all backgrounds and all religions 
