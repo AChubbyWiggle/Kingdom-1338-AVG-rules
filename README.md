@@ -1,6 +1,6 @@
 # Kingdom-1338-AVG-rules
 
-Thank you for taking the time to review the current AVG rules. Any changes will be made here
+Thank you for taking the time to review the current AVG rules. Any changes will be made here and we will continue to fill this with more useful information so keep an eye out
 
 # Rules
 
