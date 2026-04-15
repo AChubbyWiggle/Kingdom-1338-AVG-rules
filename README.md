@@ -4,15 +4,14 @@ Thank you for taking the time to review the current AVG rules. Any changes will 
 
 # Rules
 
-- Stay active: help, donate, rally, and participate in events. 
+- Stay active: help, donate, rally, and participate in events. Strength was not built in 1 day
 - During events make sure to check chat and flags for specific instructions.
 - Read alliance messages and follow R4/R5 instructions.
 - No attacks on alliance members, academies, or allies/NAP without approval.
 - Join rallies and reinforce/garrison when requested.
-- Do start political issues without leadership approval.
 - Notify leadership before extended inactivity or if you can't make it to an event you previously said you could attend.
 - Keep chat respectful and drama-free. We understand that disagreements will happen however we are all friends and allies here.
-- Avoid in religion, politics and sex in chat - We have a mix of people with all backgrounds and all religions 
+- Do not talk about religion, politics and sex in chat - We have a mix of people with all backgrounds and all religions 
 - Repeated inactivity or refusal to cooperate may lead to demotion or removal.
 - If possible try to complete all your intel and 5 Terror hunts daily (try the strongest level you can with minimal troop losses)
 - If you feel like there is any issues or conflicts make sure to flag it to an R4 or AChubbyWiggle. If we are aware of the issue we can do something about it
