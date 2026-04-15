@@ -16,7 +16,7 @@ Thank you for taking the time to review the current AVG rules. Any changes will 
 - Repeated inactivity or refusal to cooperate may lead to demotion or removal.
 - If you feel like there is any issues or conflicts make sure to flag it to an R4 or AChubbyWiggle. If we are aware of the issue we can do something about it
 
-# Events Rules and information
+# Events Rules and information (WIP = Work in progress and still being built)
 - [Alliance Championship](docs/Alliance-Championship-Rules.md)
 - [NAP](https://github.com/AChubbyWiggle/Kingshot-1338-NAP-4/tree/67506e144f96ea9d4a128e5234ef0f924e019344)
 - [Bear trap](docs/Bear-Trap-Rules.md)
