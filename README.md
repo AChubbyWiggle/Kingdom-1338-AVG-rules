@@ -17,17 +17,17 @@ Thank you for taking the time to review the current AVG rules. Any changes will 
 - If you feel like there is any issues or conflicts make sure to flag it to an R4 or AChubbyWiggle. If we are aware of the issue we can do something about it
 
 # Events Rules and information (WIP = Work in progress and still being built)
-- [Alliance Championship](docs/Alliance-Championship-Rules.md)
+- [Alliance Championship WIP](docs/Alliance-Championship-Rules.md)
 - [NAP](https://github.com/AChubbyWiggle/Kingshot-1338-NAP-4/tree/67506e144f96ea9d4a128e5234ef0f924e019344)
 - [Bear trap](docs/Bear-Trap-Rules.md)
-- [Castle Battle](docs/Castle-Battle-Rules.md)
-- [Ceasers Boss](docs/Ceasers-Boss-Rules.md)
-- [KVK preperation (seperate from Castle battle)](docs/KVK-Preparation.md)
-- [Misc Rules such as Hall of governers, alliance clash etc](docs/Misc-Event-Rules.md)
-- [Sanctuary and Fort](docs/Sanctuary-and-Fort-Rules.md)
-- [Swordland](docs/Swordland-Rules.md)
-- [Tri Alliance clash](docs/Tri-Alliance-Clash-Rules.md)
-- [Vikings](docs/Vikings-Rules.md)
+- [Castle Battle WIP](docs/Castle-Battle-Rules.md)
+- [Ceasers Boss WIP](docs/Ceasers-Boss-Rules.md)
+- [KVK preperation (seperate from Castle battle) WIP](docs/KVK-Preparation.md)
+- [Misc Rules such as Hall of governers, alliance clash etc WIP](docs/Misc-Event-Rules.md)
+- [Sanctuary and Fort WIP](docs/Sanctuary-and-Fort-Rules.md)
+- [Swordland WIP](docs/Swordland-Rules.md)
+- [Tri Alliance clash WIP](docs/Tri-Alliance-Clash-Rules.md)
+- [Vikings WIP](docs/Vikings-Rules.md)
 
 # General Tips
 - You are not alone. Ask questions, get help, work together and grow successful. Our strength is in one another
