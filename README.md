@@ -25,7 +25,7 @@ Thank you for taking the time to review the current AVG rules. Any changes will 
 - [KVK preperation (seperate from Castle battle) WIP](docs/KVK-Preparation.md)
 - [Misc Rules such as Hall of governers, alliance clash etc WIP](docs/Misc-Event-Rules.md)
 - [Sanctuary and Fort WIP](docs/Sanctuary-and-Fort-Rules.md)
-- [Swordland WIP](docs/Swordland-Rules.md)
+- [Swordland](docs/Swordland-Rules.md)
 - [Tri Alliance clash WIP](docs/Tri-Alliance-Clash-Rules.md)
 - [Vikings WIP](docs/Vikings-Rules.md)
 
