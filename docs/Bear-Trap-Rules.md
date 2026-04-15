@@ -1,4 +1,4 @@
-#Bear trap Rules
+# Bear trap Rules
 
 Please keep an eye out for messages changing the Bear trap timings. There may be times where we have overlapping events and may need to adjust.
 
