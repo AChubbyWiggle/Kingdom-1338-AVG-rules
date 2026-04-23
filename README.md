@@ -28,7 +28,7 @@ Thank you for taking the time to review the current AVG rules. Any changes will 
 - [Swordland](docs/Swordland-Rules.md)
 - [Tri Alliance clash WIP](docs/Tri-Alliance-Clash-Rules.md)
 - [Vikings](docs/Vikings-Rules.md)
-- [Alliance Mobilisation](docs/Alliance-mobilisation.md)
+- [Alliance Mobilisation WIP](docs/Alliance-mobilisation.md)
 
 # General Tips
 - You are not alone. Ask questions, get help, work together and grow successful. Our strength is in one another
