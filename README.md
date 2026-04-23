@@ -20,7 +20,7 @@ Thank you for taking the time to review the current AVG rules. Any changes will 
 - [Alliance Championship WIP](docs/Alliance-Championship-Rules.md)
 - [NAP](https://github.com/AChubbyWiggle/Kingshot-1338-NAP-4/tree/67506e144f96ea9d4a128e5234ef0f924e019344)
 - [Bear trap](docs/Bear-Trap-Rules.md)
-- [Castle Battle WIP](docs/Castle-Battle-Rules.md)
+- [Castle Battle & KvK battle](docs/Castle-Battle-Rules.md)
 - [Ceasers Boss WIP](docs/Ceasers-Boss-Rules.md)
 - [KVK preperation (seperate from Castle battle) WIP](docs/KVK-Preparation.md)
 - [Misc Rules such as Hall of governers, alliance clash etc WIP](docs/Misc-Event-Rules.md)
