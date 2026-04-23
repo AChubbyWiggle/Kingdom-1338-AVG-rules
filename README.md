@@ -27,7 +27,7 @@ Thank you for taking the time to review the current AVG rules. Any changes will 
 - [Sanctuary and Fort WIP](docs/Sanctuary-and-Fort-Rules.md)
 - [Swordland](docs/Swordland-Rules.md)
 - [Tri Alliance clash WIP](docs/Tri-Alliance-Clash-Rules.md)
-- [Vikings WIP](docs/Vikings-Rules.md)
+- [Vikings](docs/Vikings-Rules.md)
 - [Alliance Mobilisation](docs/Alliance-mobilisation.md)
 
 # General Tips
